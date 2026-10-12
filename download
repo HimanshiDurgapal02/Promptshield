@@ -1,0 +1,5 @@
+DB_USER=root
+DB_PASSWORD=testpass
+DB_NAME=promptshield
+PORT=5055
+PYTHON_BIN=python3
